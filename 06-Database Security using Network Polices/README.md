@@ -1,4 +1,4 @@
-# Kubernetes Production Security: Secure Database Using NetworkPolicy
+# Kubernetes Production Security Runbook: Secure Database Using NetworkPolicy
 
 This guide explains how to secure a database running inside Kubernetes using `NetworkPolicy`.
 
